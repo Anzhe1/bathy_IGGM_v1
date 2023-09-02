@@ -14,6 +14,7 @@ Thank you!
 4. IGGM_model.m file: The optimal values are used to calculate the final sounding model. 
 5. BLH2XYZ.m and GetGrid.m files are functions that need to be called within the program.
 6. Data folder is test data, and the range of test data is 113°E-119°E, 12°N-19°N.
+
 codes was build with Matlab version 2022a, and we as tested and run.
 
 Notice: Gross errors detection and elimination of shipborned bathymetry data were performed before IGGM calculation.
