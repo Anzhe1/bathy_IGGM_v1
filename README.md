@@ -1,6 +1,7 @@
 # IGGM_bathy
 
-#Improved gravity-geologic method reliably removing the long-wavelength gravity effect of regional seafloor topography
+#Improved gravity-geologic method reliably removing the long-wavelength gravity effect of regional seafloor topography.
+
 This is my share of IGGM technology. Limited by their own capabilities, there are still many places to improve. 
 If you have any suggestions and comments, don't hesitate to contact me andechao@126.com
 Thank you!
